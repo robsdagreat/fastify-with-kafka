@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  frontend:
+    volumes:
+      - ./frontend/src:/app/src  # Live code reload
+      - /app/node_modules        # Isolate dependencies
+    command: sh -c "npm install && npm run dev"
+    environment:
+    NEXT_PUBLIC_API_URL: http://backend:3000  # Docker internal DNS
+    NEXT_PUBLIC_API_URL_CLIENT: http://localhost:3000  # For browser access

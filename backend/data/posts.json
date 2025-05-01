@@ -1,0 +1,42 @@
+[
+  {
+    "id": "06e27de4-4be9-473d-93bd-bcb9baa56a17",
+    "title": "First post",
+    "content": "This is the first post to check",
+    "author": "Robs😁",
+    "createdAt": "2025-04-30T16:40:34.528Z",
+    "updatedAt": "2025-04-30T16:40:34.528Z"
+  },
+  {
+    "id": "53236712-3308-4068-99fd-84ffcfed79d3",
+    "title": "Second post",
+    "content": "This is the second post to check",
+    "author": "Robs😁",
+    "createdAt": "2025-04-30T16:49:53.919Z",
+    "updatedAt": "2025-04-30T16:49:53.919Z"
+  },
+  {
+    "id": "1a5354d8-43e7-43af-94b0-a8564e05011c",
+    "title": "Second post",
+    "content": "This is the second post to check",
+    "author": "Robs😁",
+    "createdAt": "2025-04-30T16:56:34.476Z",
+    "updatedAt": "2025-04-30T16:56:34.476Z"
+  },
+  {
+    "id": "c5bdefe2-0f18-4a6e-b176-64f3ad8ba493",
+    "title": "Third post",
+    "content": "This is the 3 post to check",
+    "author": "Robs_Dagreat",
+    "createdAt": "2025-04-30T17:20:29.860Z",
+    "updatedAt": "2025-04-30T17:20:29.860Z"
+  },
+  {
+    "id": "ff597f03-3fc2-4c61-8cc0-3eee505d11d5",
+    "title": "forht post",
+    "content": "This is the 4 post to check",
+    "author": "Robs_Dagreat",
+    "createdAt": "2025-04-30T17:27:15.813Z",
+    "updatedAt": "2025-04-30T17:27:15.813Z"
+  }
+]
